@@ -25,19 +25,20 @@
 	>
 
 # File marks:
-'0  1  24  ~/index.html
-'1  5  8  ~/Proj1/src/HelloWorld.java
-'2  1  0  ~/Proj1/build.xml
-'3  9  23  ~/Proj1/src/HelloWorld.java
-'4  1  1  ~/Proj1/build.xml
-'5  144  4  /etc/httpd/conf/httpd.conf
-'6  1  21  /var/www/html/welcome.html
-'7  120  0  /etc/httpd/conf/httpd.conf
-'8  3  2  /var/www/html/Index.html
-'9  1  10  ~/kranthi.txt
+'0  2  16  ~/index.html
+'1  1  24  ~/index.html
+'2  5  8  ~/Proj1/src/HelloWorld.java
+'3  1  0  ~/Proj1/build.xml
+'4  9  23  ~/Proj1/src/HelloWorld.java
+'5  1  1  ~/Proj1/build.xml
+'6  144  4  /etc/httpd/conf/httpd.conf
+'7  1  21  /var/www/html/welcome.html
+'8  120  0  /etc/httpd/conf/httpd.conf
+'9  3  2  /var/www/html/Index.html
 
 # Jumplist (newest first):
--'  1  24  ~/index.html
+-'  2  16  ~/index.html
+-'  1  0  ~/index.html
 -'  5  8  ~/Proj1/src/HelloWorld.java
 -'  1  0  ~/Proj1/build.xml
 -'  9  8  ~/Proj1/src/HelloWorld.java
@@ -134,16 +135,16 @@
 -'  3  2  /var/www/html/Index.html
 -'  1  0  /var/www/html/Index.html
 -'  1  0  ~/Proj1/build.xml
--'  5  8  ~/Proj1/src/HelloWorld.java
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	"	1	24
-	^	1	25
-	.	1	25
+	"	2	16
+	^	2	17
+	.	2	16
 	+	1	28
 	+	1	25
+	+	2	16
 
 > ~/Proj1/src/HelloWorld.java
 	"	5	8
